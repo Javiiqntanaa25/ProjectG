@@ -9,7 +9,8 @@ Explora una amplia gama de personajes. Con la capacidad de probar diferentes com
 ## Diagramas
 
 ### Diagrama de casos de uso
-![diagrama clases de uso ](https://hackmd.io/_uploads/S1C3VKLVT.jpg)
+![diagrama_casosDeUso](https://github.com/Javiiqntanaa25/ProjectG/assets/90795862/cda8a79b-ecee-4d19-b2d7-afdc6d7d413b)
+
 
 
 ### Diagrama de clases

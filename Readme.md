@@ -14,7 +14,8 @@ Explora una amplia gama de personajes. Con la capacidad de probar diferentes com
 
 
 ### Diagrama de clases
-![diagrama entidad relación](https://hackmd.io/_uploads/ByECNKLNp.png)
+![image](https://github.com/Javiiqntanaa25/ProjectG/assets/117390402/df2bfcf9-2b2f-41d1-b3e8-26da024837c3)
+
 
 ## Estructura general
 
